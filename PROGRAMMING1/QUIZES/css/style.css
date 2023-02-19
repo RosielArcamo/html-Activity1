@@ -1,0 +1,65 @@
+.wrapper{
+	border: 5px solid black;
+	padding-bottom: 10px;
+}
+.header {
+  border: 5px solid violet;
+  margin: 0 50px;
+  margin-top: 20px;
+  padding: 50px 25px;
+  text-align: center;
+}
+
+.topnav {
+  background-color: black;
+  margin: 0 50px;
+  border: 5px solid yellowgreen	;
+  display: flex;
+
+}
+.topnav li{
+	display: inline;
+	  padding: 17px 94.63px;
+	background-color: yellow;
+}
+ul{
+	padding:0 0 0 0;
+}
+
+
+.column {
+  padding: 15px;
+}
+.row{
+	display: flex;
+}
+h3{
+	margin: 3px 25px;
+	
+}
+.conare{
+	border: 5px solid black;
+	margin: 0 50px;
+}
+.ch{
+	border: 5px solid coral;
+	margin:10px 10px;
+}
+.lh{
+	border: 5px solid coral;
+	margin:10px 50px;
+}
+.lh ul{
+	list-style-type: none;
+}
+.lh li{
+	background-color: lightskyblue;
+	text-align: center;
+	padding: 10px 15px;
+	border: 3px solid green;
+}
+.copy{
+	padding-left: 50px;
+	margin: auto;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,21 @@
+body{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+form{
+	width:500px;
+	border: 2px solid green;
+	padding: 30px;
+
+}
+input{
+	display: block;
+	border: 2px solid black;
+	width: 95%;
+	padding: 10px;
+	margin: 10px auto;
+
+}
